@@ -67,7 +67,6 @@ logs/
 *.sqlite3
 
 # Generated files
-example_report.json
 server.log
 
 # Test configuration
